@@ -11,7 +11,7 @@ function App() {
   const imageLevels = [
     [
       { img: "https://cdn-icons-png.flaticon.com/512/415/415733.png", word: "Apple" },
-      { img: "https://cdn-icons-png.flaticon.com/512/616/616490.png", word: "Ball" },
+      { img: "https://cdn-icons-png.flaticon.com/512/3012/3012458.png", word: "Ball" },
     ],
     [
       { img: "https://cdn-icons-png.flaticon.com/512/616/616655.png", word: "Cat" },
